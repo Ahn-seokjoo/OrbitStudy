@@ -69,4 +69,6 @@ dependencies {
     implementation("org.orbit-mvi:orbit-core:7.1.0")
     implementation("org.orbit-mvi:orbit-viewmodel:7.1.0")
     implementation("org.orbit-mvi:orbit-compose:7.1.0")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0")
+    implementation("androidx.activity:activity-ktx:1.9.0")
 }
